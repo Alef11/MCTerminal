@@ -1,6 +1,6 @@
 # Minecraftserver Terminal
 
-This project is a
+This is the client side Interface App for a Minecraftserver Managment Termianl. It is written in flutter.
 
 ## Getting Started
 
