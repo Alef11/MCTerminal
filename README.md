@@ -1,6 +1,6 @@
-# minecraftservercontroller
+# Minecraftserver Terminal
 
-A new Flutter project.
+This project is a
 
 ## Getting Started
 
